@@ -36,20 +36,3 @@
     ```docker build <path_to_docker_file>```
 - Why docker system prune is used.What does it do.
     ```docker system prune```
-- Will you loose your data, when a docker container exists.
-- Where all do you think Docker is being used.
-- How Docker is different from other containerization methods.
-- Can I use JSON instead of YAML for my Compose file in Docker.
-- Have you used Docker in your previous position.
-- How far do Docker containers scale.Are there any requirement for the same.
-- What platforms does Docker run on.
-- Can you remove a paused container from Docker.
-- Can container restart itself.
-- Is it better to remove the container directly using rm command or stop the container followed by remove container.
-- How many containers can run per host.
-- Is it good practice to run stateful applications on Docker.
-- Suppose you have an application that has many dependent services. Will Docker compose wait for current container to be ready to move to the running of the next service.
-- How will you monitor Docker in production.
-- Is it good practice to run Docker compose in production.
-- What changes are expected in your Docker compose file while moving it to production.
-- Are you aware of load balancing across containers and host.How does it works.
