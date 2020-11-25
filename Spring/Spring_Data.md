@@ -1,5 +1,5 @@
-What is Spring Data.
-What is the need for Spring Data.
-What is Spring Data JPA.
-What is CrudRepository.
-What is a PagingAndSortingRepository.
+- What is Spring Data.
+- What is the need for Spring Data.
+- What is Spring Data JPA.
+- What is CrudRepository.
+- What is a PagingAndSortingRepository.

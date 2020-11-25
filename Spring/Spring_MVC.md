@@ -1,21 +1,21 @@
-What is Model 1 Architecture.
-What is Model 2 Architecture.
-What is Model 2 Front Controller Architecture.
-Can you show an example controller method in Spring MVC.
-Can you explain a simple flow in Spring MVC.
-What is ViewResolver.
-What is Model.
-What is ModelAndView.
-What is RequestMapping.
-What is DispatcherServlet.
-What is a form backing object.
-How is validation done using Spring MVC.
-What is BindingResult.
-How do you map you validation results to your view.
-What are Spring Form Tags.
-What is Path Variable.
-What is a Model Attribute.
-What is a Session Attribute.
-What is a init binder.
-How do you set default date format with Spring.
-Why is Spring MVC is so popular.
+- What is Model 1 Architecture.
+- What is Model 2 Architecture.
+- What is Model 2 Front Controller Architecture.
+- Can you show an example controller method in Spring MVC.
+- Can you explain a simple flow in Spring MVC.
+- What is ViewResolver.
+- What is Model.
+- What is ModelAndView.
+- What is RequestMapping.
+- What is DispatcherServlet.
+- What is a form backing object.
+- How is validation done using Spring MVC.
+- What is BindingResult.
+- How do you map you validation results to your view.
+- What are Spring Form Tags.
+- What is Path Variable.
+- What is a Model Attribute.
+- What is a Session Attribute.
+- What is a init binder.
+- How do you set default date format with Spring.
+- Why is Spring MVC is so popular.
