@@ -1,0 +1,16 @@
+- What is Virtualization.
+- What is Hypervisor.
+- Types of Hypervisor.
+- What is Containerization.
+- Difference between Virtualizaiton and Containerization.
+- What is Docker.
+- What is Docker Container.
+- What is Docker Image.
+- What is Docker Hub.
+- Explain Docker Architecture.
+- What is a Dockerfile.
+- Tell us something about Docker Compose.
+- What is Docker Swarm.
+- What is Docker Namespace.
+- What is the life cycle of Docker container.
+- What is Docker Machine.
