@@ -1,5 +1,7 @@
 - How to check for Docker client and Docker server version.
-    ```docker version```
+    ```
+    docker version
+    ```
 - How do you get number of Containers Running, Paused and Stopped.
     ```docker info```
 - How will you get help for any command.
