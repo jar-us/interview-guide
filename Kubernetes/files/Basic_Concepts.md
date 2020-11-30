@@ -1,0 +1,15 @@
+- How K8 is different from Docker Swarm.
+- What is K8.
+- How K8 is related to Docker.
+- What is the difference between deploying applications on Host and Containers.
+- What is container orchestration.
+- What is the need container orchestration.
+- What is the feature of K8.
+- How does K8 simplify containerized deployment.
+- What do you know about clusters in K8.
+- What is Google Container Engine(GKE).
+- What is Heapster.
+- What is Minikube.
+- What is Kubectl.
+- What is Kubelet.
+- What do you understand by a node in Kubernetes. 
