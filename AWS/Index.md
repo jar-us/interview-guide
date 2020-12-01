@@ -1,0 +1,50 @@
+- What is AWS.
+- What are the key components of AWS.
+- What Simple Service Storage (S3).
+- What is Amazon Machine Image (AMI).
+- Explain relationship between an Instance and AMI.
+- What does AMI includes.
+- How can you send a request to S3.
+- Difference between S3 and EC2.
+- By default how many buckets you can create in AWS.
+- Can you vertically scale AWS instance and How.
+- What is T2 instances.
+- In VPC with public and private Subnets, database servers should ideally be launched into which Subnet.
+- What are the best security practices for securing AWS EC2.
+- Why we use buffer in AWS.
+- What are key-pairs in AWS.
+- What are the different types of instances.
+- Is the property of Braodcast or Multicast supported by AWS VPC. 
+- What is Elastic IPs.
+- Explain default storage class in S3.
+- What are the Roles.
+- What are the edge locations.
+- What is VPC.
+- Explain Snowball.
+- What is a RedShift.
+- What are the advantages of autoscaling.
+- What is meant by Subnet.
+- What is Simple Queueing Service (SQS).
+- How many Subnets a VPC can have.
+- DNS and Load Balancer comes under which types of cloud service.
+- What is the Role of CloudTrail.
+- What is SimpleDB.
+- Explain Amazon ElasticCache.
+- What is AWS Lambda.
+- Name the types of AMI provided by AWS.
+- Name the AWS service that exists only to redundantly Cache Data and Image.
+- Explain Geo Restriction in CloudFront.
+- What is Amazon Elastic MapReduce (EMR).
+- What is the boot time taken for the Instance Stored Backed AMI.
+- Do you need an Internet Gateway to use Peering Connections.
+- How to connect EBS volume to multiple instances.
+- List different types of Cloud Services.
+- State the difference between An instance and an AMI.
+- What are different Load Balancers in AWS.
+- In which situation you will select provisioned IOPS over standard RDS storage.
+- What are the important features of Amazon Cloud Search.
+- Is vertical scaling is allowed in Amzaon instance.
+- What is the use of lifecycle hooks in Autoscaling.
+- What are various layers of Cloud Architecture explained in AWS training.
+- What are the storage class available in Amazon S3.
+- Name some of the DB engines which can be used in AWS RDS.
